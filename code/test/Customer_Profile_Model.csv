@@ -1,0 +1,1001 @@
+Customer_Id,Age,Gender,Location,Interests,Preferences,Income_per_year,Education,Occupation
+CUST0001,54,Non-Binary,Seattle,Travel,Classic,105792,Master's,Engineer
+CUST0002,39,Female,Miami,Tech,Minimalist,120167,Master's,Doctor
+CUST0003,62,Female,Houston,Cooking,Organic,121282,Master's,Freelancer
+CUST0004,24,Non-Binary,Miami,Fitness,Luxury,58593,High School,Artist
+CUST0005,62,Female,New York,Cooking,Budget,118872,PhD,Manager
+CUST0006,55,Female,Miami,Tech,Organic,145452,Master's,Teacher
+CUST0007,23,Male,Chicago,Travel,Organic,143336,Bachelor's,Salesperson
+CUST0008,38,Female,New York,Sports,Classic,61633,PhD,Artist
+CUST0009,52,Male,Los Angeles,Fashion,Luxury,50405,Master's,Manager
+CUST0010,25,Non-Binary,San Francisco,Fashion,Minimalist,136349,Bachelor's,Salesperson
+CUST0011,37,Female,New York,Gaming,Classic,107171,PhD,Teacher
+CUST0012,19,Male,Miami,Gaming,Trendy,74254,Master's,Doctor
+CUST0013,22,Female,Houston,Music,Budget,35307,PhD,Engineer
+CUST0014,29,Non-Binary,Boston,Fitness,Minimalist,35571,High School,Engineer
+CUST0015,61,Male,Chicago,Fitness,Organic,78824,PhD,Designer
+CUST0016,52,Male,Boston,Gaming,Trendy,81047,High School,Artist
+CUST0017,50,Non-Binary,Miami,Cooking,Classic,92936,High School,Salesperson
+CUST0018,33,Non-Binary,New York,Tech,Luxury,71324,PhD,Manager
+CUST0019,62,Male,Miami,Tech,Luxury,96033,Master's,Salesperson
+CUST0020,56,Non-Binary,New York,Fitness,Classic,132557,PhD,Designer
+CUST0021,58,Non-Binary,Los Angeles,Fashion,Luxury,42582,PhD,Teacher
+CUST0022,24,Non-Binary,Los Angeles,Tech,Minimalist,37272,Master's,Doctor
+CUST0023,35,Male,Boston,Travel,Minimalist,97380,High School,Designer
+CUST0024,43,Non-Binary,Boston,Tech,Luxury,115767,High School,Artist
+CUST0025,41,Non-Binary,Houston,Travel,Trendy,102066,PhD,Designer
+CUST0026,27,Non-Binary,Chicago,Cooking,Organic,126141,Master's,Salesperson
+CUST0027,65,Female,Seattle,Fashion,Organic,99958,PhD,Freelancer
+CUST0028,53,Male,Boston,Cooking,Trendy,125323,High School,Artist
+CUST0029,20,Male,Seattle,Fashion,Budget,137719,Bachelor's,Freelancer
+CUST0030,52,Male,Seattle,Sports,Budget,149197,Master's,Freelancer
+CUST0031,21,Non-Binary,New York,Sports,Organic,83836,Bachelor's,Artist
+CUST0032,64,Female,Miami,Travel,Classic,85598,Bachelor's,Freelancer
+CUST0033,38,Female,San Francisco,Tech,Trendy,140013,High School,Doctor
+CUST0034,51,Non-Binary,Chicago,Fitness,Luxury,119030,Bachelor's,Teacher
+CUST0035,26,Non-Binary,Chicago,Cooking,Trendy,129379,Bachelor's,Manager
+CUST0036,19,Female,San Francisco,Tech,Trendy,69494,Master's,Teacher
+CUST0037,59,Female,New York,Gaming,Minimalist,72561,Bachelor's,Teacher
+CUST0038,43,Male,New York,Travel,Luxury,144516,High School,Teacher
+CUST0039,41,Female,Miami,Fashion,Classic,55006,Bachelor's,Salesperson
+CUST0040,45,Male,Seattle,Cooking,Classic,68957,High School,Artist
+CUST0041,42,Female,Boston,Music,Luxury,96969,PhD,Engineer
+CUST0042,22,Non-Binary,Seattle,Sports,Classic,117507,High School,Salesperson
+CUST0043,51,Female,Boston,Travel,Budget,98061,Bachelor's,Freelancer
+CUST0044,57,Male,San Francisco,Gaming,Minimalist,66700,PhD,Teacher
+CUST0045,19,Male,Seattle,Fashion,Organic,114396,Master's,Doctor
+CUST0046,28,Male,Seattle,Cooking,Budget,49558,High School,Doctor
+CUST0047,51,Male,New York,Sports,Budget,47748,PhD,Teacher
+CUST0048,55,Non-Binary,San Francisco,Music,Classic,91321,PhD,Doctor
+CUST0049,60,Non-Binary,Chicago,Sports,Organic,146903,PhD,Doctor
+CUST0050,27,Non-Binary,Miami,Music,Organic,132795,PhD,Salesperson
+CUST0051,49,Female,San Francisco,Travel,Luxury,50330,PhD,Designer
+CUST0052,21,Male,Houston,Fitness,Trendy,84424,PhD,Engineer
+CUST0053,30,Non-Binary,New York,Fitness,Organic,141477,PhD,Freelancer
+CUST0054,25,Non-Binary,Boston,Sports,Trendy,138318,Bachelor's,Doctor
+CUST0055,49,Male,Miami,Travel,Budget,111022,Master's,Designer
+CUST0056,44,Male,Miami,Gaming,Minimalist,63625,Bachelor's,Doctor
+CUST0057,38,Female,Seattle,Cooking,Minimalist,95345,PhD,Artist
+CUST0058,23,Male,Los Angeles,Tech,Budget,133120,PhD,Artist
+CUST0059,41,Male,Chicago,Gaming,Budget,33914,Master's,Designer
+CUST0060,30,Non-Binary,San Francisco,Sports,Minimalist,71130,Bachelor's,Salesperson
+CUST0061,60,Male,Los Angeles,Travel,Trendy,30062,Master's,Doctor
+CUST0062,37,Non-Binary,San Francisco,Sports,Classic,78511,Master's,Designer
+CUST0063,49,Non-Binary,Houston,Gaming,Budget,91865,High School,Designer
+CUST0064,21,Female,Miami,Travel,Organic,110130,PhD,Freelancer
+CUST0065,54,Male,Boston,Fitness,Minimalist,48580,PhD,Freelancer
+CUST0066,58,Non-Binary,San Francisco,Music,Classic,44500,High School,Manager
+CUST0067,56,Male,San Francisco,Cooking,Minimalist,145694,Bachelor's,Doctor
+CUST0068,22,Female,Boston,Cooking,Classic,100957,Bachelor's,Teacher
+CUST0069,33,Male,Boston,Tech,Classic,117280,Master's,Teacher
+CUST0070,43,Non-Binary,Miami,Travel,Classic,61881,PhD,Engineer
+CUST0071,24,Non-Binary,San Francisco,Fitness,Luxury,48333,PhD,Designer
+CUST0072,42,Male,Boston,Gaming,Budget,36719,PhD,Teacher
+CUST0073,21,Male,Miami,Tech,Trendy,100465,High School,Engineer
+CUST0074,53,Non-Binary,New York,Music,Classic,72801,High School,Salesperson
+CUST0075,63,Non-Binary,New York,Sports,Budget,49256,Bachelor's,Teacher
+CUST0076,51,Non-Binary,Chicago,Cooking,Classic,111662,Bachelor's,Teacher
+CUST0077,31,Non-Binary,Houston,Travel,Classic,97838,High School,Engineer
+CUST0078,18,Non-Binary,Chicago,Cooking,Trendy,89432,High School,Doctor
+CUST0079,19,Female,Houston,Music,Trendy,98007,High School,Salesperson
+CUST0080,60,Non-Binary,New York,Cooking,Minimalist,48509,High School,Freelancer
+CUST0081,64,Male,Houston,Fashion,Organic,53526,Bachelor's,Manager
+CUST0082,23,Male,San Francisco,Sports,Minimalist,82358,Master's,Salesperson
+CUST0083,60,Female,New York,Tech,Minimalist,104316,Bachelor's,Artist
+CUST0084,34,Female,Boston,Travel,Luxury,48387,Bachelor's,Doctor
+CUST0085,58,Male,Houston,Fitness,Classic,92331,PhD,Teacher
+CUST0086,31,Male,Chicago,Cooking,Budget,70806,Master's,Salesperson
+CUST0087,28,Non-Binary,Miami,Fashion,Minimalist,36046,Master's,Salesperson
+CUST0088,58,Female,Chicago,Fitness,Organic,96087,Master's,Artist
+CUST0089,59,Non-Binary,Houston,Sports,Classic,123506,PhD,Doctor
+CUST0090,47,Non-Binary,San Francisco,Fitness,Luxury,116016,Bachelor's,Designer
+CUST0091,32,Female,Miami,Sports,Trendy,61812,High School,Freelancer
+CUST0092,59,Female,Boston,Fashion,Classic,51617,PhD,Doctor
+CUST0093,43,Female,San Francisco,Tech,Minimalist,48382,High School,Designer
+CUST0094,39,Non-Binary,Los Angeles,Cooking,Organic,34771,Master's,Teacher
+CUST0095,19,Non-Binary,Los Angeles,Fashion,Budget,49518,Master's,Freelancer
+CUST0096,42,Male,San Francisco,Music,Luxury,121281,PhD,Freelancer
+CUST0097,22,Female,Chicago,Fitness,Budget,42436,Bachelor's,Doctor
+CUST0098,50,Female,New York,Cooking,Luxury,44074,PhD,Doctor
+CUST0099,38,Female,Los Angeles,Travel,Organic,67971,High School,Artist
+CUST0100,65,Female,Chicago,Cooking,Minimalist,111036,Master's,Teacher
+CUST0101,49,Non-Binary,New York,Fashion,Luxury,35934,PhD,Manager
+CUST0102,33,Male,Miami,Gaming,Luxury,98815,Master's,Designer
+CUST0103,62,Male,Chicago,Fashion,Classic,74854,PhD,Salesperson
+CUST0104,55,Non-Binary,Chicago,Fashion,Organic,86514,Master's,Artist
+CUST0105,60,Male,Houston,Fashion,Classic,127229,Bachelor's,Salesperson
+CUST0106,27,Male,New York,Fashion,Trendy,76881,Master's,Engineer
+CUST0107,19,Female,Los Angeles,Gaming,Organic,65389,Bachelor's,Engineer
+CUST0108,52,Female,New York,Music,Luxury,141840,Bachelor's,Freelancer
+CUST0109,57,Non-Binary,Miami,Gaming,Classic,35238,Bachelor's,Designer
+CUST0110,39,Female,Chicago,Gaming,Luxury,134927,Master's,Teacher
+CUST0111,30,Non-Binary,Los Angeles,Travel,Minimalist,51414,High School,Teacher
+CUST0112,22,Female,Seattle,Cooking,Budget,59698,PhD,Manager
+CUST0113,32,Male,Boston,Tech,Budget,86808,Bachelor's,Artist
+CUST0114,38,Non-Binary,San Francisco,Cooking,Luxury,133913,Bachelor's,Freelancer
+CUST0115,64,Female,Seattle,Fashion,Minimalist,82160,PhD,Freelancer
+CUST0116,50,Non-Binary,Chicago,Fitness,Minimalist,76813,PhD,Salesperson
+CUST0117,33,Non-Binary,Boston,Tech,Luxury,69685,High School,Doctor
+CUST0118,65,Female,San Francisco,Music,Trendy,49767,High School,Artist
+CUST0119,30,Non-Binary,New York,Music,Organic,98576,Bachelor's,Freelancer
+CUST0120,36,Non-Binary,Miami,Cooking,Classic,105817,PhD,Manager
+CUST0121,58,Non-Binary,New York,Tech,Budget,48851,Master's,Artist
+CUST0122,58,Male,Seattle,Gaming,Luxury,46082,Master's,Designer
+CUST0123,41,Male,Chicago,Tech,Trendy,50393,PhD,Engineer
+CUST0124,55,Male,Miami,Cooking,Trendy,34255,Bachelor's,Doctor
+CUST0125,52,Male,Chicago,Gaming,Classic,42180,Bachelor's,Salesperson
+CUST0126,56,Female,Chicago,Tech,Classic,116033,PhD,Doctor
+CUST0127,40,Male,Chicago,Cooking,Luxury,88072,Master's,Freelancer
+CUST0128,19,Male,San Francisco,Tech,Classic,131165,Bachelor's,Teacher
+CUST0129,43,Non-Binary,Los Angeles,Fashion,Classic,94176,Master's,Artist
+CUST0130,36,Female,Boston,Music,Luxury,39132,Master's,Doctor
+CUST0131,53,Non-Binary,Chicago,Music,Organic,45924,High School,Manager
+CUST0132,31,Female,Houston,Sports,Luxury,79385,High School,Freelancer
+CUST0133,46,Non-Binary,Houston,Tech,Budget,41804,Master's,Teacher
+CUST0134,51,Female,Los Angeles,Cooking,Budget,110693,Master's,Salesperson
+CUST0135,42,Male,New York,Fitness,Luxury,75855,Bachelor's,Designer
+CUST0136,24,Female,Boston,Fitness,Luxury,116984,High School,Teacher
+CUST0137,58,Non-Binary,Miami,Fashion,Classic,95303,Master's,Manager
+CUST0138,31,Female,Miami,Sports,Classic,139657,High School,Designer
+CUST0139,36,Male,New York,Fitness,Organic,76932,High School,Artist
+CUST0140,64,Non-Binary,New York,Sports,Organic,132364,High School,Teacher
+CUST0141,54,Female,Los Angeles,Cooking,Organic,130632,Bachelor's,Freelancer
+CUST0142,64,Non-Binary,Boston,Tech,Budget,138953,High School,Manager
+CUST0143,41,Male,Los Angeles,Cooking,Classic,96216,Bachelor's,Teacher
+CUST0144,60,Non-Binary,Miami,Gaming,Trendy,35014,Bachelor's,Freelancer
+CUST0145,20,Female,Seattle,Gaming,Luxury,59157,PhD,Salesperson
+CUST0146,51,Non-Binary,Houston,Tech,Classic,126607,High School,Salesperson
+CUST0147,18,Non-Binary,Boston,Fashion,Trendy,31416,Bachelor's,Engineer
+CUST0148,30,Female,Chicago,Cooking,Organic,129697,Bachelor's,Freelancer
+CUST0149,31,Male,Houston,Cooking,Luxury,149109,High School,Manager
+CUST0150,18,Female,Boston,Music,Budget,133504,PhD,Designer
+CUST0151,36,Non-Binary,San Francisco,Music,Minimalist,96440,Bachelor's,Designer
+CUST0152,52,Male,Chicago,Gaming,Luxury,39496,PhD,Designer
+CUST0153,38,Non-Binary,Seattle,Gaming,Trendy,44436,Master's,Designer
+CUST0154,43,Non-Binary,Seattle,Travel,Classic,62492,High School,Salesperson
+CUST0155,28,Male,Boston,Fashion,Classic,103806,Bachelor's,Designer
+CUST0156,33,Female,Boston,Gaming,Trendy,87000,High School,Manager
+CUST0157,61,Non-Binary,Chicago,Music,Classic,30741,Master's,Designer
+CUST0158,21,Female,Miami,Travel,Trendy,95305,High School,Freelancer
+CUST0159,41,Female,Miami,Fashion,Organic,94206,Master's,Doctor
+CUST0160,57,Female,Los Angeles,Travel,Organic,80449,Master's,Freelancer
+CUST0161,27,Male,Chicago,Travel,Budget,126360,Master's,Salesperson
+CUST0162,28,Male,San Francisco,Fitness,Trendy,120892,PhD,Salesperson
+CUST0163,34,Male,Los Angeles,Fashion,Trendy,50044,High School,Engineer
+CUST0164,36,Male,New York,Gaming,Organic,42235,PhD,Salesperson
+CUST0165,19,Male,Houston,Tech,Luxury,97437,High School,Teacher
+CUST0166,42,Female,Seattle,Fashion,Trendy,77391,PhD,Artist
+CUST0167,34,Male,New York,Sports,Trendy,44422,PhD,Freelancer
+CUST0168,46,Non-Binary,Los Angeles,Gaming,Trendy,94720,Bachelor's,Engineer
+CUST0169,41,Female,Boston,Music,Classic,143826,High School,Manager
+CUST0170,65,Male,Houston,Sports,Minimalist,54149,PhD,Designer
+CUST0171,56,Non-Binary,San Francisco,Fashion,Luxury,56023,Master's,Artist
+CUST0172,55,Male,Chicago,Fitness,Classic,86434,Master's,Designer
+CUST0173,57,Male,New York,Gaming,Minimalist,69371,PhD,Manager
+CUST0174,34,Male,Boston,Gaming,Organic,75872,High School,Teacher
+CUST0175,50,Female,Houston,Travel,Luxury,47962,High School,Designer
+CUST0176,63,Non-Binary,Seattle,Gaming,Minimalist,148049,High School,Doctor
+CUST0177,49,Non-Binary,New York,Gaming,Trendy,51004,PhD,Engineer
+CUST0178,21,Female,New York,Fitness,Trendy,100861,Master's,Doctor
+CUST0179,40,Male,New York,Tech,Budget,119000,PhD,Engineer
+CUST0180,49,Non-Binary,Boston,Fashion,Classic,68730,High School,Freelancer
+CUST0181,46,Male,Seattle,Tech,Trendy,30298,Master's,Salesperson
+CUST0182,40,Male,Seattle,Sports,Budget,60223,Master's,Freelancer
+CUST0183,50,Female,Houston,Travel,Budget,139929,PhD,Designer
+CUST0184,40,Non-Binary,San Francisco,Travel,Budget,68526,High School,Manager
+CUST0185,48,Male,Miami,Cooking,Classic,138244,Bachelor's,Freelancer
+CUST0186,36,Non-Binary,New York,Tech,Organic,112520,Bachelor's,Artist
+CUST0187,22,Male,New York,Sports,Organic,144200,Bachelor's,Manager
+CUST0188,55,Non-Binary,Boston,Fashion,Minimalist,38969,Master's,Artist
+CUST0189,60,Male,New York,Music,Budget,76838,PhD,Freelancer
+CUST0190,29,Male,Boston,Fitness,Minimalist,34720,High School,Engineer
+CUST0191,30,Non-Binary,Los Angeles,Fashion,Organic,30798,High School,Teacher
+CUST0192,63,Male,Seattle,Music,Trendy,46464,Bachelor's,Doctor
+CUST0193,65,Female,San Francisco,Gaming,Trendy,138783,Master's,Artist
+CUST0194,30,Non-Binary,Boston,Sports,Organic,94805,PhD,Designer
+CUST0195,26,Male,New York,Sports,Trendy,139629,High School,Teacher
+CUST0196,37,Non-Binary,New York,Music,Organic,118022,Bachelor's,Manager
+CUST0197,51,Female,Chicago,Sports,Minimalist,149813,Bachelor's,Freelancer
+CUST0198,20,Female,Boston,Sports,Budget,31016,PhD,Doctor
+CUST0199,24,Male,New York,Fitness,Trendy,90853,Bachelor's,Artist
+CUST0200,51,Female,San Francisco,Tech,Minimalist,122844,Bachelor's,Artist
+CUST0201,36,Male,New York,Gaming,Organic,87926,Master's,Salesperson
+CUST0202,52,Male,Boston,Travel,Luxury,87411,High School,Artist
+CUST0203,18,Female,Los Angeles,Sports,Luxury,114260,High School,Artist
+CUST0204,26,Non-Binary,Miami,Fashion,Organic,68945,Bachelor's,Freelancer
+CUST0205,28,Non-Binary,New York,Fitness,Budget,67994,Bachelor's,Designer
+CUST0206,38,Male,Seattle,Gaming,Trendy,91113,Bachelor's,Artist
+CUST0207,46,Male,Houston,Tech,Minimalist,49716,Master's,Manager
+CUST0208,44,Male,Boston,Tech,Luxury,34642,Master's,Salesperson
+CUST0209,37,Male,Houston,Cooking,Luxury,125327,Master's,Artist
+CUST0210,57,Non-Binary,Houston,Tech,Minimalist,96872,PhD,Designer
+CUST0211,58,Non-Binary,Houston,Fashion,Classic,88604,PhD,Salesperson
+CUST0212,20,Male,Houston,Fashion,Budget,129230,High School,Freelancer
+CUST0213,64,Non-Binary,Seattle,Travel,Classic,139573,Master's,Freelancer
+CUST0214,19,Non-Binary,Miami,Music,Classic,36324,Master's,Doctor
+CUST0215,33,Non-Binary,Los Angeles,Gaming,Organic,102110,High School,Teacher
+CUST0216,21,Female,Houston,Music,Budget,77944,Bachelor's,Designer
+CUST0217,39,Female,Boston,Travel,Classic,140496,High School,Artist
+CUST0218,24,Male,New York,Fashion,Organic,85058,PhD,Freelancer
+CUST0219,57,Non-Binary,San Francisco,Sports,Organic,149349,PhD,Engineer
+CUST0220,42,Female,Chicago,Tech,Minimalist,62565,Master's,Freelancer
+CUST0221,58,Female,Miami,Gaming,Classic,39475,Bachelor's,Freelancer
+CUST0222,42,Female,Miami,Cooking,Luxury,65581,High School,Engineer
+CUST0223,42,Female,Seattle,Gaming,Trendy,73552,High School,Manager
+CUST0224,57,Female,Boston,Travel,Organic,142443,High School,Freelancer
+CUST0225,65,Female,Los Angeles,Fitness,Luxury,94612,Bachelor's,Manager
+CUST0226,19,Male,San Francisco,Tech,Luxury,133959,PhD,Designer
+CUST0227,53,Female,Seattle,Tech,Minimalist,76595,High School,Designer
+CUST0228,65,Non-Binary,Miami,Fitness,Organic,39646,High School,Freelancer
+CUST0229,65,Female,Houston,Fitness,Organic,58186,PhD,Teacher
+CUST0230,35,Male,Los Angeles,Cooking,Trendy,64621,Bachelor's,Designer
+CUST0231,55,Non-Binary,New York,Tech,Classic,103837,Master's,Freelancer
+CUST0232,20,Non-Binary,Chicago,Fashion,Budget,63280,High School,Teacher
+CUST0233,58,Non-Binary,Seattle,Music,Budget,94717,Bachelor's,Doctor
+CUST0234,29,Non-Binary,New York,Fitness,Minimalist,142918,Master's,Teacher
+CUST0235,50,Non-Binary,Seattle,Tech,Organic,100452,PhD,Salesperson
+CUST0236,60,Non-Binary,New York,Sports,Minimalist,143991,PhD,Salesperson
+CUST0237,56,Non-Binary,Houston,Travel,Trendy,143476,Master's,Manager
+CUST0238,28,Non-Binary,Boston,Music,Minimalist,61181,High School,Designer
+CUST0239,25,Non-Binary,Seattle,Gaming,Classic,147570,High School,Manager
+CUST0240,55,Male,Miami,Travel,Luxury,76518,High School,Artist
+CUST0241,34,Female,Houston,Tech,Budget,96577,High School,Doctor
+CUST0242,60,Female,Miami,Sports,Classic,67439,PhD,Freelancer
+CUST0243,62,Female,Los Angeles,Fashion,Classic,124518,Master's,Designer
+CUST0244,25,Non-Binary,Boston,Fashion,Trendy,106759,Bachelor's,Teacher
+CUST0245,57,Non-Binary,New York,Travel,Minimalist,66044,Bachelor's,Doctor
+CUST0246,60,Female,Miami,Gaming,Minimalist,113848,Master's,Teacher
+CUST0247,45,Male,Seattle,Fitness,Luxury,47860,Master's,Manager
+CUST0248,29,Male,Chicago,Sports,Classic,144590,Bachelor's,Designer
+CUST0249,62,Non-Binary,Boston,Sports,Minimalist,50965,PhD,Teacher
+CUST0250,20,Female,Miami,Tech,Budget,77581,Bachelor's,Artist
+CUST0251,48,Non-Binary,Houston,Gaming,Minimalist,133143,Master's,Teacher
+CUST0252,26,Male,Boston,Tech,Luxury,88187,High School,Teacher
+CUST0253,63,Female,Chicago,Tech,Classic,76811,High School,Salesperson
+CUST0254,39,Male,New York,Travel,Minimalist,122136,Bachelor's,Engineer
+CUST0255,37,Non-Binary,Houston,Music,Trendy,77050,High School,Freelancer
+CUST0256,31,Non-Binary,Chicago,Gaming,Minimalist,149409,PhD,Manager
+CUST0257,24,Female,Chicago,Tech,Minimalist,111556,PhD,Artist
+CUST0258,34,Male,New York,Sports,Classic,53535,PhD,Teacher
+CUST0259,61,Female,Seattle,Music,Minimalist,127693,High School,Artist
+CUST0260,58,Male,Miami,Tech,Budget,63854,Master's,Doctor
+CUST0261,55,Male,Houston,Music,Budget,92139,Bachelor's,Doctor
+CUST0262,65,Female,Miami,Sports,Luxury,73430,PhD,Manager
+CUST0263,57,Female,Los Angeles,Tech,Luxury,138624,High School,Manager
+CUST0264,48,Female,Miami,Tech,Organic,42983,High School,Doctor
+CUST0265,50,Male,Los Angeles,Gaming,Luxury,63779,Bachelor's,Salesperson
+CUST0266,48,Male,New York,Tech,Luxury,97318,Bachelor's,Doctor
+CUST0267,30,Female,Chicago,Fitness,Trendy,62789,PhD,Doctor
+CUST0268,19,Male,Houston,Cooking,Trendy,99515,PhD,Designer
+CUST0269,64,Male,Chicago,Sports,Trendy,61412,PhD,Salesperson
+CUST0270,32,Non-Binary,Houston,Gaming,Luxury,82523,PhD,Salesperson
+CUST0271,35,Female,Miami,Fashion,Minimalist,76342,Bachelor's,Teacher
+CUST0272,54,Male,Seattle,Cooking,Trendy,68840,PhD,Manager
+CUST0273,39,Female,New York,Fitness,Luxury,88757,Master's,Engineer
+CUST0274,33,Non-Binary,San Francisco,Fashion,Budget,144064,PhD,Teacher
+CUST0275,43,Non-Binary,New York,Tech,Trendy,85771,PhD,Freelancer
+CUST0276,38,Non-Binary,Chicago,Gaming,Organic,117624,Master's,Freelancer
+CUST0277,41,Non-Binary,Miami,Sports,Luxury,33655,Master's,Freelancer
+CUST0278,20,Male,Miami,Gaming,Trendy,104013,Bachelor's,Freelancer
+CUST0279,38,Female,Seattle,Gaming,Trendy,122809,High School,Designer
+CUST0280,28,Non-Binary,Chicago,Travel,Luxury,87892,Bachelor's,Designer
+CUST0281,28,Non-Binary,Los Angeles,Tech,Minimalist,31198,PhD,Salesperson
+CUST0282,19,Male,Houston,Fashion,Classic,118522,Bachelor's,Designer
+CUST0283,31,Female,New York,Fitness,Organic,84638,Bachelor's,Manager
+CUST0284,22,Non-Binary,San Francisco,Tech,Organic,134509,High School,Designer
+CUST0285,36,Non-Binary,Los Angeles,Music,Organic,80374,Bachelor's,Artist
+CUST0286,43,Male,Chicago,Cooking,Organic,49265,High School,Artist
+CUST0287,20,Male,Houston,Music,Luxury,91711,Bachelor's,Artist
+CUST0288,30,Female,Seattle,Travel,Classic,124284,PhD,Freelancer
+CUST0289,47,Non-Binary,Miami,Travel,Minimalist,140040,Bachelor's,Doctor
+CUST0290,23,Male,New York,Tech,Minimalist,126353,Master's,Doctor
+CUST0291,42,Non-Binary,Los Angeles,Fitness,Budget,95521,High School,Doctor
+CUST0292,21,Female,Houston,Fashion,Trendy,71602,PhD,Freelancer
+CUST0293,23,Non-Binary,Houston,Tech,Minimalist,134550,Master's,Salesperson
+CUST0294,28,Female,Seattle,Cooking,Trendy,102199,PhD,Manager
+CUST0295,34,Male,Houston,Music,Minimalist,128951,Bachelor's,Salesperson
+CUST0296,32,Female,San Francisco,Fitness,Classic,96600,PhD,Artist
+CUST0297,30,Non-Binary,Houston,Cooking,Luxury,35324,Bachelor's,Salesperson
+CUST0298,35,Male,Los Angeles,Tech,Trendy,104645,PhD,Doctor
+CUST0299,18,Non-Binary,New York,Gaming,Minimalist,97357,High School,Freelancer
+CUST0300,62,Female,Houston,Music,Budget,124468,Bachelor's,Teacher
+CUST0301,32,Male,Houston,Travel,Trendy,85835,Bachelor's,Designer
+CUST0302,58,Male,Chicago,Cooking,Trendy,127413,Master's,Designer
+CUST0303,19,Female,San Francisco,Tech,Organic,38907,Master's,Engineer
+CUST0304,57,Male,New York,Cooking,Organic,117535,Master's,Teacher
+CUST0305,41,Non-Binary,Seattle,Tech,Luxury,96562,High School,Artist
+CUST0306,52,Female,Los Angeles,Gaming,Trendy,59982,Master's,Doctor
+CUST0307,23,Non-Binary,San Francisco,Fashion,Organic,77361,High School,Engineer
+CUST0308,36,Male,New York,Tech,Trendy,75847,Bachelor's,Teacher
+CUST0309,41,Male,Houston,Music,Budget,139843,Master's,Artist
+CUST0310,44,Female,Miami,Cooking,Budget,95831,Bachelor's,Doctor
+CUST0311,27,Male,Miami,Travel,Budget,39320,Bachelor's,Engineer
+CUST0312,36,Female,San Francisco,Music,Budget,68643,High School,Doctor
+CUST0313,33,Non-Binary,Chicago,Sports,Classic,59045,High School,Doctor
+CUST0314,18,Non-Binary,New York,Fashion,Luxury,136379,High School,Doctor
+CUST0315,18,Male,Miami,Cooking,Luxury,129616,Bachelor's,Doctor
+CUST0316,23,Male,New York,Cooking,Organic,128085,Master's,Freelancer
+CUST0317,21,Non-Binary,Boston,Cooking,Trendy,58365,Bachelor's,Engineer
+CUST0318,44,Male,Los Angeles,Fitness,Minimalist,47034,High School,Salesperson
+CUST0319,45,Female,Seattle,Travel,Organic,94250,Master's,Doctor
+CUST0320,49,Male,Seattle,Gaming,Budget,79183,PhD,Artist
+CUST0321,50,Non-Binary,Miami,Fashion,Luxury,50108,Master's,Engineer
+CUST0322,39,Female,Miami,Fashion,Minimalist,128185,High School,Designer
+CUST0323,57,Male,Houston,Tech,Minimalist,98321,Bachelor's,Artist
+CUST0324,29,Non-Binary,Seattle,Travel,Budget,112482,High School,Manager
+CUST0325,19,Male,Boston,Music,Classic,51475,Master's,Doctor
+CUST0326,22,Female,San Francisco,Cooking,Trendy,51822,Bachelor's,Artist
+CUST0327,45,Male,Houston,Music,Organic,80653,PhD,Salesperson
+CUST0328,30,Non-Binary,Houston,Music,Trendy,51737,Master's,Manager
+CUST0329,36,Male,Los Angeles,Fashion,Luxury,37406,Bachelor's,Teacher
+CUST0330,37,Female,San Francisco,Tech,Trendy,148031,PhD,Doctor
+CUST0331,41,Non-Binary,Chicago,Tech,Luxury,45915,PhD,Designer
+CUST0332,64,Female,Miami,Cooking,Trendy,54983,Bachelor's,Freelancer
+CUST0333,53,Non-Binary,Chicago,Travel,Budget,58338,PhD,Manager
+CUST0334,18,Male,San Francisco,Cooking,Luxury,95046,High School,Designer
+CUST0335,56,Female,Boston,Sports,Budget,148121,High School,Teacher
+CUST0336,36,Male,Los Angeles,Travel,Organic,36645,Bachelor's,Engineer
+CUST0337,61,Non-Binary,Seattle,Sports,Organic,136741,Bachelor's,Freelancer
+CUST0338,23,Male,New York,Fashion,Classic,125002,PhD,Salesperson
+CUST0339,21,Non-Binary,Seattle,Fashion,Luxury,80176,High School,Engineer
+CUST0340,41,Female,Los Angeles,Tech,Organic,49200,Bachelor's,Doctor
+CUST0341,63,Female,Los Angeles,Tech,Trendy,138781,Master's,Engineer
+CUST0342,54,Male,Miami,Music,Organic,102867,PhD,Engineer
+CUST0343,28,Female,New York,Music,Minimalist,141537,High School,Salesperson
+CUST0344,18,Female,Seattle,Tech,Minimalist,121266,PhD,Salesperson
+CUST0345,40,Male,Los Angeles,Gaming,Organic,134776,High School,Artist
+CUST0346,39,Non-Binary,Boston,Sports,Budget,125274,Master's,Manager
+CUST0347,50,Non-Binary,New York,Travel,Minimalist,83901,Master's,Freelancer
+CUST0348,60,Male,Houston,Tech,Trendy,51236,PhD,Doctor
+CUST0349,31,Male,San Francisco,Gaming,Trendy,132066,High School,Designer
+CUST0350,62,Female,Los Angeles,Cooking,Classic,35256,Bachelor's,Engineer
+CUST0351,64,Female,Chicago,Music,Budget,52448,Bachelor's,Manager
+CUST0352,48,Female,Houston,Music,Budget,87730,Bachelor's,Designer
+CUST0353,51,Female,Seattle,Cooking,Budget,79875,Bachelor's,Doctor
+CUST0354,49,Male,Chicago,Fashion,Organic,65748,PhD,Manager
+CUST0355,60,Male,Boston,Sports,Minimalist,49916,PhD,Designer
+CUST0356,39,Non-Binary,Miami,Travel,Classic,126936,Bachelor's,Salesperson
+CUST0357,20,Male,Houston,Cooking,Luxury,136809,Master's,Teacher
+CUST0358,43,Female,Boston,Tech,Luxury,111148,High School,Artist
+CUST0359,52,Male,Seattle,Fitness,Minimalist,117746,PhD,Doctor
+CUST0360,42,Female,Chicago,Sports,Luxury,140622,PhD,Salesperson
+CUST0361,62,Non-Binary,San Francisco,Fitness,Budget,92921,Master's,Freelancer
+CUST0362,47,Non-Binary,Chicago,Music,Trendy,95430,High School,Teacher
+CUST0363,55,Non-Binary,Los Angeles,Cooking,Minimalist,42372,PhD,Doctor
+CUST0364,31,Non-Binary,Houston,Fashion,Trendy,63150,Master's,Manager
+CUST0365,20,Non-Binary,Boston,Cooking,Organic,96463,Master's,Engineer
+CUST0366,38,Female,Houston,Tech,Organic,43002,PhD,Artist
+CUST0367,22,Male,Los Angeles,Tech,Classic,82071,Master's,Artist
+CUST0368,49,Male,Miami,Tech,Trendy,88472,High School,Artist
+CUST0369,35,Female,Los Angeles,Fashion,Luxury,124521,PhD,Salesperson
+CUST0370,37,Non-Binary,San Francisco,Fashion,Trendy,78350,Bachelor's,Doctor
+CUST0371,24,Female,Houston,Gaming,Classic,148959,High School,Salesperson
+CUST0372,51,Male,Chicago,Sports,Trendy,88883,Master's,Engineer
+CUST0373,59,Non-Binary,Houston,Fashion,Luxury,65253,PhD,Engineer
+CUST0374,41,Male,Miami,Fitness,Trendy,95122,High School,Teacher
+CUST0375,38,Male,Houston,Sports,Minimalist,48616,PhD,Doctor
+CUST0376,55,Female,Los Angeles,Travel,Classic,88501,PhD,Engineer
+CUST0377,43,Non-Binary,Boston,Gaming,Minimalist,62394,High School,Designer
+CUST0378,33,Female,Seattle,Gaming,Budget,47709,High School,Artist
+CUST0379,30,Male,Houston,Cooking,Minimalist,58224,PhD,Freelancer
+CUST0380,61,Male,New York,Travel,Trendy,100042,Bachelor's,Freelancer
+CUST0381,38,Male,Los Angeles,Music,Minimalist,66279,PhD,Designer
+CUST0382,24,Male,New York,Fashion,Minimalist,100495,PhD,Artist
+CUST0383,34,Non-Binary,Houston,Fashion,Trendy,57671,Bachelor's,Engineer
+CUST0384,41,Male,Chicago,Music,Trendy,79665,High School,Engineer
+CUST0385,63,Non-Binary,Houston,Cooking,Luxury,50800,PhD,Teacher
+CUST0386,39,Non-Binary,Chicago,Sports,Minimalist,93791,High School,Artist
+CUST0387,20,Non-Binary,New York,Travel,Budget,149246,Bachelor's,Designer
+CUST0388,30,Non-Binary,Seattle,Tech,Trendy,104096,Bachelor's,Artist
+CUST0389,22,Non-Binary,Chicago,Fashion,Minimalist,86742,Master's,Designer
+CUST0390,32,Non-Binary,Los Angeles,Music,Minimalist,38589,Bachelor's,Teacher
+CUST0391,51,Non-Binary,Boston,Tech,Budget,69954,High School,Engineer
+CUST0392,33,Male,San Francisco,Sports,Minimalist,130249,Bachelor's,Manager
+CUST0393,58,Male,Boston,Tech,Luxury,63871,Bachelor's,Engineer
+CUST0394,46,Female,Boston,Gaming,Classic,122986,High School,Manager
+CUST0395,46,Female,Houston,Travel,Minimalist,92448,Master's,Manager
+CUST0396,29,Non-Binary,Boston,Fashion,Budget,103487,PhD,Designer
+CUST0397,30,Male,Houston,Sports,Budget,34530,PhD,Doctor
+CUST0398,37,Male,Seattle,Travel,Trendy,100058,Master's,Freelancer
+CUST0399,22,Non-Binary,Chicago,Tech,Organic,130356,High School,Teacher
+CUST0400,60,Non-Binary,Chicago,Fashion,Budget,74850,PhD,Salesperson
+CUST0401,56,Non-Binary,Miami,Gaming,Minimalist,80913,PhD,Engineer
+CUST0402,39,Female,New York,Sports,Classic,81149,Master's,Salesperson
+CUST0403,27,Female,San Francisco,Travel,Classic,99473,Master's,Designer
+CUST0404,21,Male,Chicago,Tech,Organic,59268,Master's,Artist
+CUST0405,19,Female,Boston,Music,Organic,112117,Bachelor's,Designer
+CUST0406,41,Female,Houston,Cooking,Classic,148991,High School,Artist
+CUST0407,64,Male,Miami,Travel,Minimalist,112163,PhD,Manager
+CUST0408,20,Non-Binary,Seattle,Music,Budget,46260,PhD,Teacher
+CUST0409,20,Female,San Francisco,Fashion,Minimalist,116306,Master's,Doctor
+CUST0410,25,Female,Boston,Fashion,Budget,134917,Master's,Salesperson
+CUST0411,21,Male,Miami,Fitness,Luxury,127254,Master's,Salesperson
+CUST0412,45,Non-Binary,New York,Fitness,Classic,121990,PhD,Freelancer
+CUST0413,43,Male,New York,Cooking,Organic,124902,High School,Salesperson
+CUST0414,23,Non-Binary,Houston,Gaming,Luxury,39550,PhD,Designer
+CUST0415,19,Female,Boston,Travel,Budget,78644,Bachelor's,Teacher
+CUST0416,52,Non-Binary,Houston,Gaming,Luxury,76158,Bachelor's,Artist
+CUST0417,58,Non-Binary,San Francisco,Sports,Organic,56816,High School,Salesperson
+CUST0418,51,Non-Binary,Los Angeles,Music,Minimalist,136767,Master's,Manager
+CUST0419,34,Non-Binary,San Francisco,Tech,Trendy,70528,High School,Teacher
+CUST0420,23,Female,San Francisco,Music,Classic,58572,Master's,Manager
+CUST0421,64,Male,Houston,Fashion,Trendy,131481,High School,Engineer
+CUST0422,21,Female,Los Angeles,Fashion,Budget,58754,Bachelor's,Artist
+CUST0423,23,Female,Boston,Sports,Organic,135331,Bachelor's,Doctor
+CUST0424,49,Non-Binary,Los Angeles,Gaming,Luxury,104346,High School,Salesperson
+CUST0425,65,Non-Binary,Houston,Travel,Organic,93958,Bachelor's,Freelancer
+CUST0426,20,Male,Houston,Fashion,Minimalist,79617,Bachelor's,Salesperson
+CUST0427,59,Male,Seattle,Cooking,Classic,87012,PhD,Manager
+CUST0428,40,Male,San Francisco,Gaming,Budget,97613,PhD,Engineer
+CUST0429,64,Female,Miami,Tech,Organic,45902,Bachelor's,Designer
+CUST0430,56,Male,San Francisco,Cooking,Classic,125417,Master's,Doctor
+CUST0431,58,Non-Binary,Seattle,Tech,Budget,122567,PhD,Manager
+CUST0432,58,Non-Binary,New York,Gaming,Classic,112362,PhD,Designer
+CUST0433,59,Non-Binary,Miami,Fitness,Trendy,126419,PhD,Designer
+CUST0434,27,Male,San Francisco,Cooking,Classic,62379,PhD,Doctor
+CUST0435,54,Non-Binary,San Francisco,Fitness,Classic,113360,Bachelor's,Salesperson
+CUST0436,28,Male,Miami,Music,Budget,122128,Bachelor's,Manager
+CUST0437,60,Non-Binary,Los Angeles,Cooking,Luxury,73429,Bachelor's,Doctor
+CUST0438,55,Non-Binary,Boston,Fashion,Budget,99180,PhD,Engineer
+CUST0439,45,Female,Miami,Fashion,Organic,105008,Bachelor's,Designer
+CUST0440,64,Non-Binary,Miami,Music,Organic,74557,PhD,Artist
+CUST0441,55,Female,Los Angeles,Music,Minimalist,140314,Master's,Freelancer
+CUST0442,47,Female,Los Angeles,Travel,Classic,59126,PhD,Artist
+CUST0443,49,Non-Binary,Miami,Fashion,Minimalist,89851,High School,Artist
+CUST0444,37,Female,San Francisco,Fashion,Luxury,44749,Bachelor's,Freelancer
+CUST0445,59,Male,Miami,Cooking,Trendy,73512,PhD,Designer
+CUST0446,33,Non-Binary,Chicago,Travel,Budget,40917,Master's,Artist
+CUST0447,49,Male,Los Angeles,Fitness,Minimalist,105181,Bachelor's,Teacher
+CUST0448,19,Male,New York,Travel,Luxury,113310,Bachelor's,Artist
+CUST0449,33,Non-Binary,Los Angeles,Cooking,Luxury,102475,Bachelor's,Artist
+CUST0450,22,Non-Binary,Los Angeles,Fashion,Organic,131930,PhD,Engineer
+CUST0451,40,Male,Houston,Fashion,Luxury,120685,Master's,Freelancer
+CUST0452,30,Female,San Francisco,Sports,Minimalist,69216,Bachelor's,Doctor
+CUST0453,47,Non-Binary,San Francisco,Cooking,Trendy,135397,Bachelor's,Salesperson
+CUST0454,23,Female,Los Angeles,Fashion,Classic,116273,PhD,Salesperson
+CUST0455,38,Non-Binary,Houston,Travel,Trendy,35709,PhD,Doctor
+CUST0456,42,Female,Seattle,Sports,Trendy,130543,Master's,Manager
+CUST0457,43,Non-Binary,Houston,Fashion,Budget,148851,Master's,Teacher
+CUST0458,23,Male,Los Angeles,Gaming,Luxury,106150,Bachelor's,Engineer
+CUST0459,20,Female,Seattle,Music,Organic,130443,Bachelor's,Engineer
+CUST0460,52,Male,Houston,Fitness,Minimalist,82139,High School,Artist
+CUST0461,35,Male,Seattle,Travel,Budget,103464,Master's,Artist
+CUST0462,63,Non-Binary,Chicago,Fitness,Trendy,66288,Master's,Salesperson
+CUST0463,39,Male,Houston,Fashion,Luxury,149368,Bachelor's,Designer
+CUST0464,37,Male,Boston,Cooking,Luxury,138784,Bachelor's,Manager
+CUST0465,51,Male,Seattle,Music,Organic,107836,Bachelor's,Artist
+CUST0466,38,Male,Los Angeles,Tech,Minimalist,101170,PhD,Artist
+CUST0467,62,Non-Binary,Boston,Cooking,Trendy,83119,Bachelor's,Designer
+CUST0468,56,Female,Miami,Travel,Classic,106808,Master's,Engineer
+CUST0469,27,Male,San Francisco,Cooking,Minimalist,87975,Bachelor's,Designer
+CUST0470,52,Male,Seattle,Travel,Minimalist,85947,PhD,Freelancer
+CUST0471,24,Non-Binary,Chicago,Cooking,Minimalist,133662,Master's,Manager
+CUST0472,60,Female,New York,Fitness,Minimalist,67279,Bachelor's,Engineer
+CUST0473,38,Non-Binary,Boston,Fashion,Organic,129391,High School,Freelancer
+CUST0474,56,Male,Boston,Music,Minimalist,143273,High School,Manager
+CUST0475,48,Non-Binary,Boston,Travel,Classic,98616,High School,Manager
+CUST0476,44,Male,Chicago,Travel,Classic,141854,Master's,Doctor
+CUST0477,26,Non-Binary,Boston,Music,Trendy,106382,PhD,Engineer
+CUST0478,19,Male,Los Angeles,Music,Minimalist,57087,High School,Engineer
+CUST0479,43,Female,Los Angeles,Cooking,Luxury,120403,Master's,Teacher
+CUST0480,35,Male,Miami,Sports,Minimalist,46424,PhD,Salesperson
+CUST0481,43,Female,Los Angeles,Fashion,Luxury,82097,PhD,Doctor
+CUST0482,41,Non-Binary,Los Angeles,Travel,Minimalist,148608,PhD,Freelancer
+CUST0483,64,Male,Boston,Sports,Organic,102257,High School,Doctor
+CUST0484,59,Non-Binary,Miami,Cooking,Organic,86817,Bachelor's,Engineer
+CUST0485,18,Male,Miami,Music,Classic,67106,PhD,Engineer
+CUST0486,48,Non-Binary,Chicago,Fashion,Classic,112281,High School,Manager
+CUST0487,51,Female,Chicago,Gaming,Minimalist,54830,Master's,Doctor
+CUST0488,40,Male,Boston,Fashion,Minimalist,83184,Bachelor's,Salesperson
+CUST0489,55,Female,Chicago,Cooking,Luxury,67818,PhD,Doctor
+CUST0490,55,Female,Chicago,Tech,Trendy,120633,PhD,Teacher
+CUST0491,19,Female,Seattle,Music,Classic,125843,High School,Engineer
+CUST0492,27,Male,Boston,Cooking,Organic,101061,Bachelor's,Designer
+CUST0493,22,Non-Binary,Chicago,Travel,Organic,123407,Master's,Freelancer
+CUST0494,46,Male,New York,Sports,Luxury,76882,Master's,Doctor
+CUST0495,38,Female,Boston,Music,Luxury,58006,PhD,Engineer
+CUST0496,36,Non-Binary,Miami,Gaming,Trendy,103107,High School,Designer
+CUST0497,18,Non-Binary,Seattle,Fashion,Budget,124247,Master's,Engineer
+CUST0498,31,Non-Binary,Seattle,Sports,Organic,119283,Master's,Artist
+CUST0499,25,Non-Binary,Miami,Sports,Classic,99150,Master's,Artist
+CUST0500,48,Non-Binary,Boston,Fitness,Minimalist,95029,High School,Manager
+CUST0501,27,Female,Houston,Tech,Classic,121801,Master's,Salesperson
+CUST0502,48,Male,San Francisco,Cooking,Classic,94364,PhD,Manager
+CUST0503,43,Male,Boston,Music,Budget,110700,Bachelor's,Teacher
+CUST0504,51,Female,San Francisco,Tech,Budget,98290,Bachelor's,Manager
+CUST0505,28,Male,Seattle,Travel,Trendy,57166,PhD,Salesperson
+CUST0506,50,Female,Chicago,Travel,Classic,90713,Master's,Doctor
+CUST0507,36,Male,New York,Travel,Organic,44200,High School,Freelancer
+CUST0508,31,Non-Binary,Seattle,Travel,Classic,42069,PhD,Salesperson
+CUST0509,62,Non-Binary,San Francisco,Sports,Classic,56620,PhD,Manager
+CUST0510,51,Male,Seattle,Fitness,Classic,121118,High School,Teacher
+CUST0511,60,Non-Binary,Houston,Sports,Classic,32935,Master's,Freelancer
+CUST0512,55,Male,Seattle,Sports,Organic,74841,High School,Doctor
+CUST0513,50,Female,Miami,Sports,Budget,141598,Master's,Freelancer
+CUST0514,60,Female,Seattle,Fashion,Trendy,63154,Master's,Artist
+CUST0515,25,Male,New York,Gaming,Trendy,82152,PhD,Freelancer
+CUST0516,65,Male,Los Angeles,Tech,Minimalist,145286,PhD,Teacher
+CUST0517,30,Non-Binary,Seattle,Travel,Classic,136814,Master's,Engineer
+CUST0518,40,Female,New York,Cooking,Luxury,38708,High School,Freelancer
+CUST0519,39,Male,New York,Fashion,Trendy,134867,PhD,Doctor
+CUST0520,64,Non-Binary,San Francisco,Sports,Classic,122598,Bachelor's,Artist
+CUST0521,59,Non-Binary,Houston,Tech,Luxury,124342,Bachelor's,Freelancer
+CUST0522,36,Non-Binary,Boston,Travel,Budget,49807,Bachelor's,Doctor
+CUST0523,53,Male,Chicago,Fitness,Budget,35608,Master's,Manager
+CUST0524,33,Male,Seattle,Gaming,Organic,49235,High School,Teacher
+CUST0525,40,Non-Binary,Miami,Tech,Budget,88065,Master's,Engineer
+CUST0526,65,Non-Binary,Houston,Music,Luxury,35344,PhD,Engineer
+CUST0527,41,Non-Binary,Los Angeles,Gaming,Organic,77996,Bachelor's,Freelancer
+CUST0528,34,Male,Seattle,Fashion,Luxury,36020,Bachelor's,Manager
+CUST0529,43,Male,San Francisco,Tech,Luxury,56421,Bachelor's,Teacher
+CUST0530,21,Female,Chicago,Sports,Classic,103913,PhD,Teacher
+CUST0531,62,Male,Seattle,Music,Trendy,55455,PhD,Freelancer
+CUST0532,63,Non-Binary,Chicago,Fitness,Organic,85090,Bachelor's,Manager
+CUST0533,49,Female,Houston,Cooking,Classic,62190,High School,Salesperson
+CUST0534,43,Male,Boston,Travel,Luxury,84844,Bachelor's,Engineer
+CUST0535,23,Female,Chicago,Gaming,Classic,31248,Bachelor's,Designer
+CUST0536,24,Non-Binary,Seattle,Sports,Classic,41073,Master's,Doctor
+CUST0537,56,Female,Seattle,Sports,Trendy,113561,High School,Teacher
+CUST0538,29,Male,Chicago,Music,Classic,36510,Bachelor's,Designer
+CUST0539,20,Female,San Francisco,Gaming,Organic,102128,Master's,Manager
+CUST0540,65,Male,San Francisco,Travel,Budget,101781,Bachelor's,Teacher
+CUST0541,62,Non-Binary,Los Angeles,Sports,Minimalist,110206,PhD,Engineer
+CUST0542,22,Female,San Francisco,Tech,Luxury,98907,PhD,Artist
+CUST0543,50,Non-Binary,Los Angeles,Music,Trendy,95478,High School,Manager
+CUST0544,30,Non-Binary,Houston,Fashion,Organic,130567,Bachelor's,Manager
+CUST0545,58,Male,Seattle,Sports,Classic,83190,Bachelor's,Teacher
+CUST0546,48,Female,Boston,Cooking,Budget,127100,PhD,Doctor
+CUST0547,50,Female,Boston,Fashion,Trendy,63400,Master's,Engineer
+CUST0548,34,Female,Miami,Sports,Budget,106879,Master's,Freelancer
+CUST0549,21,Non-Binary,Chicago,Sports,Minimalist,103582,PhD,Designer
+CUST0550,48,Non-Binary,Miami,Fashion,Budget,105674,High School,Salesperson
+CUST0551,34,Non-Binary,Los Angeles,Music,Organic,40931,Master's,Teacher
+CUST0552,32,Male,Chicago,Music,Luxury,144153,PhD,Salesperson
+CUST0553,45,Female,San Francisco,Tech,Organic,34693,PhD,Designer
+CUST0554,27,Non-Binary,Seattle,Cooking,Budget,130151,High School,Teacher
+CUST0555,24,Male,New York,Cooking,Budget,69086,Bachelor's,Salesperson
+CUST0556,47,Male,Boston,Gaming,Luxury,149506,PhD,Engineer
+CUST0557,22,Female,New York,Cooking,Minimalist,49349,Master's,Freelancer
+CUST0558,21,Non-Binary,New York,Gaming,Trendy,63968,Master's,Salesperson
+CUST0559,50,Non-Binary,Chicago,Gaming,Luxury,97434,PhD,Designer
+CUST0560,36,Non-Binary,Miami,Tech,Trendy,82970,Master's,Engineer
+CUST0561,44,Male,Boston,Gaming,Budget,56476,Bachelor's,Manager
+CUST0562,55,Male,Chicago,Music,Classic,52798,Bachelor's,Doctor
+CUST0563,34,Male,Chicago,Tech,Trendy,99136,Master's,Salesperson
+CUST0564,52,Female,Chicago,Fashion,Minimalist,70889,PhD,Artist
+CUST0565,18,Female,Los Angeles,Tech,Trendy,49230,Master's,Teacher
+CUST0566,48,Male,Seattle,Fashion,Budget,37199,High School,Artist
+CUST0567,26,Non-Binary,Miami,Music,Budget,85046,Bachelor's,Designer
+CUST0568,32,Female,New York,Tech,Classic,110017,Bachelor's,Salesperson
+CUST0569,65,Female,Seattle,Tech,Trendy,107410,Master's,Designer
+CUST0570,24,Non-Binary,Los Angeles,Fashion,Minimalist,116844,High School,Teacher
+CUST0571,18,Male,San Francisco,Fashion,Minimalist,59559,Bachelor's,Doctor
+CUST0572,47,Male,Miami,Music,Luxury,126438,Bachelor's,Freelancer
+CUST0573,24,Non-Binary,San Francisco,Tech,Luxury,37485,Master's,Manager
+CUST0574,47,Non-Binary,San Francisco,Sports,Classic,112832,Bachelor's,Doctor
+CUST0575,59,Male,Chicago,Sports,Organic,49655,Master's,Teacher
+CUST0576,18,Male,Miami,Sports,Minimalist,134428,High School,Engineer
+CUST0577,49,Female,Seattle,Travel,Classic,135094,High School,Engineer
+CUST0578,30,Male,Seattle,Travel,Organic,99888,Master's,Teacher
+CUST0579,39,Female,Houston,Fashion,Classic,140136,High School,Artist
+CUST0580,42,Non-Binary,Seattle,Sports,Luxury,123846,PhD,Teacher
+CUST0581,20,Non-Binary,Boston,Fitness,Organic,49712,PhD,Doctor
+CUST0582,46,Female,Miami,Travel,Budget,88844,Master's,Teacher
+CUST0583,32,Female,Houston,Tech,Luxury,53184,Bachelor's,Doctor
+CUST0584,25,Non-Binary,Seattle,Tech,Budget,105515,Bachelor's,Artist
+CUST0585,52,Female,Seattle,Travel,Luxury,141011,Bachelor's,Manager
+CUST0586,23,Female,San Francisco,Cooking,Trendy,38267,High School,Salesperson
+CUST0587,29,Female,Houston,Music,Classic,52175,Bachelor's,Doctor
+CUST0588,59,Male,Houston,Travel,Organic,81440,Master's,Designer
+CUST0589,58,Non-Binary,Chicago,Travel,Organic,118950,Bachelor's,Designer
+CUST0590,21,Female,Houston,Sports,Luxury,71739,High School,Salesperson
+CUST0591,64,Female,Houston,Fitness,Trendy,84164,PhD,Engineer
+CUST0592,64,Non-Binary,San Francisco,Sports,Trendy,43778,Master's,Designer
+CUST0593,57,Non-Binary,Miami,Fitness,Minimalist,37617,Master's,Designer
+CUST0594,38,Non-Binary,Boston,Gaming,Budget,95806,Master's,Artist
+CUST0595,44,Female,Seattle,Sports,Trendy,105670,Bachelor's,Doctor
+CUST0596,47,Male,New York,Sports,Minimalist,33206,Master's,Engineer
+CUST0597,33,Male,New York,Cooking,Classic,91512,PhD,Freelancer
+CUST0598,64,Female,Seattle,Travel,Luxury,51962,PhD,Salesperson
+CUST0599,56,Male,San Francisco,Fitness,Budget,57415,PhD,Engineer
+CUST0600,28,Female,Miami,Fitness,Trendy,143509,Master's,Designer
+CUST0601,62,Female,New York,Gaming,Minimalist,127507,High School,Salesperson
+CUST0602,40,Male,San Francisco,Travel,Classic,106554,Master's,Doctor
+CUST0603,45,Non-Binary,Los Angeles,Cooking,Luxury,45650,High School,Designer
+CUST0604,37,Male,Miami,Sports,Budget,48384,Master's,Artist
+CUST0605,64,Female,Boston,Fashion,Organic,93048,Bachelor's,Teacher
+CUST0606,31,Non-Binary,New York,Cooking,Trendy,136629,Bachelor's,Manager
+CUST0607,22,Non-Binary,Boston,Fashion,Minimalist,71408,High School,Engineer
+CUST0608,38,Female,Houston,Tech,Budget,43675,Master's,Freelancer
+CUST0609,20,Male,Seattle,Gaming,Classic,61299,Bachelor's,Freelancer
+CUST0610,64,Male,Miami,Cooking,Classic,61725,High School,Doctor
+CUST0611,22,Non-Binary,Chicago,Fitness,Organic,43432,PhD,Engineer
+CUST0612,47,Female,Seattle,Fashion,Minimalist,149119,Master's,Engineer
+CUST0613,50,Female,Miami,Music,Classic,76811,Bachelor's,Engineer
+CUST0614,45,Non-Binary,Boston,Sports,Luxury,134264,Master's,Artist
+CUST0615,18,Non-Binary,Boston,Fitness,Classic,108694,High School,Engineer
+CUST0616,26,Non-Binary,Houston,Fitness,Classic,68114,Bachelor's,Engineer
+CUST0617,20,Non-Binary,Los Angeles,Fashion,Budget,131826,High School,Doctor
+CUST0618,31,Female,San Francisco,Cooking,Luxury,74615,Master's,Teacher
+CUST0619,64,Non-Binary,New York,Travel,Budget,134071,Master's,Engineer
+CUST0620,46,Non-Binary,Chicago,Fitness,Luxury,146209,PhD,Artist
+CUST0621,55,Female,Boston,Music,Organic,31085,PhD,Artist
+CUST0622,37,Female,Seattle,Sports,Classic,85104,Master's,Freelancer
+CUST0623,35,Male,Los Angeles,Fitness,Minimalist,41174,Master's,Doctor
+CUST0624,58,Non-Binary,New York,Sports,Trendy,63291,Bachelor's,Manager
+CUST0625,60,Non-Binary,Miami,Sports,Luxury,93342,Master's,Artist
+CUST0626,64,Male,Chicago,Fashion,Classic,36322,Master's,Artist
+CUST0627,31,Female,New York,Fashion,Trendy,42372,High School,Teacher
+CUST0628,39,Male,Houston,Gaming,Budget,34450,High School,Doctor
+CUST0629,65,Male,Seattle,Sports,Budget,70078,High School,Teacher
+CUST0630,19,Female,Los Angeles,Fitness,Minimalist,147459,Bachelor's,Engineer
+CUST0631,24,Female,Chicago,Fitness,Budget,66117,High School,Artist
+CUST0632,26,Female,Houston,Fitness,Trendy,123109,Bachelor's,Freelancer
+CUST0633,38,Female,Chicago,Cooking,Classic,103904,High School,Teacher
+CUST0634,21,Non-Binary,Boston,Fitness,Classic,65108,High School,Teacher
+CUST0635,41,Male,Houston,Tech,Classic,109848,PhD,Freelancer
+CUST0636,39,Non-Binary,San Francisco,Travel,Minimalist,138243,Master's,Freelancer
+CUST0637,62,Female,Los Angeles,Fitness,Minimalist,106887,Bachelor's,Artist
+CUST0638,41,Female,Chicago,Tech,Minimalist,102174,Master's,Doctor
+CUST0639,48,Male,Seattle,Fashion,Classic,52677,High School,Salesperson
+CUST0640,60,Male,New York,Fashion,Minimalist,40343,High School,Manager
+CUST0641,26,Female,Los Angeles,Tech,Budget,124621,PhD,Freelancer
+CUST0642,39,Female,Boston,Fashion,Luxury,45125,Master's,Artist
+CUST0643,27,Female,New York,Fitness,Organic,65508,Master's,Freelancer
+CUST0644,46,Female,New York,Fitness,Organic,99879,PhD,Doctor
+CUST0645,19,Female,Houston,Sports,Classic,102136,PhD,Teacher
+CUST0646,40,Male,Miami,Fitness,Trendy,93425,Master's,Freelancer
+CUST0647,46,Non-Binary,New York,Music,Classic,89260,PhD,Artist
+CUST0648,48,Male,Miami,Cooking,Trendy,63990,Master's,Manager
+CUST0649,61,Female,Seattle,Sports,Organic,145822,Bachelor's,Doctor
+CUST0650,25,Female,Houston,Gaming,Classic,83000,Master's,Doctor
+CUST0651,21,Female,Houston,Tech,Classic,84760,High School,Manager
+CUST0652,51,Female,San Francisco,Sports,Trendy,132020,Bachelor's,Artist
+CUST0653,20,Female,Seattle,Travel,Minimalist,110141,PhD,Freelancer
+CUST0654,42,Female,Boston,Fitness,Trendy,115276,Master's,Teacher
+CUST0655,54,Female,Houston,Gaming,Budget,35652,PhD,Freelancer
+CUST0656,42,Non-Binary,Boston,Sports,Minimalist,91089,Master's,Doctor
+CUST0657,57,Non-Binary,Boston,Tech,Budget,133267,Bachelor's,Teacher
+CUST0658,43,Non-Binary,New York,Sports,Classic,135915,Bachelor's,Engineer
+CUST0659,43,Female,Houston,Fitness,Classic,81825,PhD,Teacher
+CUST0660,29,Male,Chicago,Fashion,Budget,54634,Bachelor's,Artist
+CUST0661,59,Female,New York,Gaming,Budget,111446,Bachelor's,Designer
+CUST0662,18,Non-Binary,Los Angeles,Fashion,Minimalist,38165,PhD,Engineer
+CUST0663,46,Male,Los Angeles,Fashion,Budget,38643,High School,Designer
+CUST0664,30,Female,Seattle,Cooking,Organic,138679,Bachelor's,Doctor
+CUST0665,48,Female,New York,Cooking,Minimalist,86432,Bachelor's,Freelancer
+CUST0666,25,Non-Binary,Chicago,Gaming,Trendy,45389,High School,Designer
+CUST0667,30,Non-Binary,Houston,Travel,Luxury,116158,Master's,Engineer
+CUST0668,28,Female,Chicago,Fitness,Minimalist,61996,Master's,Teacher
+CUST0669,24,Non-Binary,Houston,Tech,Organic,30709,PhD,Salesperson
+CUST0670,40,Non-Binary,Miami,Sports,Luxury,103226,High School,Artist
+CUST0671,58,Non-Binary,Houston,Fashion,Minimalist,116930,High School,Teacher
+CUST0672,52,Female,Houston,Sports,Classic,130615,Bachelor's,Designer
+CUST0673,64,Male,Boston,Cooking,Luxury,146203,High School,Freelancer
+CUST0674,42,Non-Binary,San Francisco,Cooking,Classic,92588,High School,Doctor
+CUST0675,55,Female,Houston,Travel,Minimalist,134496,PhD,Doctor
+CUST0676,58,Non-Binary,Miami,Fitness,Trendy,48174,PhD,Salesperson
+CUST0677,56,Non-Binary,Chicago,Tech,Minimalist,57265,Bachelor's,Designer
+CUST0678,20,Non-Binary,Chicago,Gaming,Minimalist,108950,PhD,Designer
+CUST0679,25,Non-Binary,Houston,Tech,Budget,123095,High School,Designer
+CUST0680,42,Non-Binary,Miami,Sports,Organic,42148,Master's,Engineer
+CUST0681,40,Female,Miami,Fashion,Luxury,60420,Master's,Artist
+CUST0682,24,Non-Binary,Boston,Cooking,Trendy,47348,PhD,Engineer
+CUST0683,61,Non-Binary,Houston,Gaming,Trendy,111882,High School,Designer
+CUST0684,30,Male,Boston,Gaming,Luxury,82848,PhD,Manager
+CUST0685,49,Female,Houston,Cooking,Organic,64118,Master's,Engineer
+CUST0686,57,Female,Boston,Fitness,Budget,59360,High School,Manager
+CUST0687,41,Female,Seattle,Music,Trendy,30812,High School,Designer
+CUST0688,51,Male,New York,Travel,Luxury,101968,Master's,Doctor
+CUST0689,20,Non-Binary,Seattle,Sports,Trendy,85987,PhD,Salesperson
+CUST0690,47,Female,Boston,Gaming,Luxury,120528,High School,Manager
+CUST0691,62,Male,San Francisco,Travel,Classic,120516,Master's,Engineer
+CUST0692,63,Male,Houston,Travel,Minimalist,59421,High School,Freelancer
+CUST0693,39,Male,Houston,Cooking,Trendy,143620,PhD,Teacher
+CUST0694,20,Female,Houston,Sports,Trendy,136496,High School,Engineer
+CUST0695,45,Non-Binary,Los Angeles,Fitness,Organic,84128,Master's,Engineer
+CUST0696,57,Female,Los Angeles,Sports,Budget,73643,Bachelor's,Designer
+CUST0697,56,Non-Binary,Seattle,Music,Minimalist,65047,Bachelor's,Manager
+CUST0698,33,Non-Binary,Chicago,Tech,Budget,92698,Bachelor's,Salesperson
+CUST0699,53,Non-Binary,Houston,Sports,Minimalist,149212,High School,Manager
+CUST0700,40,Male,Boston,Cooking,Luxury,136867,High School,Manager
+CUST0701,35,Male,Houston,Fashion,Luxury,51452,PhD,Engineer
+CUST0702,50,Male,Seattle,Travel,Classic,142772,High School,Artist
+CUST0703,57,Female,San Francisco,Fashion,Budget,105941,PhD,Freelancer
+CUST0704,23,Non-Binary,Chicago,Fashion,Minimalist,133784,Bachelor's,Salesperson
+CUST0705,51,Female,Boston,Sports,Trendy,39263,High School,Designer
+CUST0706,56,Non-Binary,New York,Gaming,Minimalist,79124,Master's,Artist
+CUST0707,65,Male,Seattle,Gaming,Trendy,54053,Bachelor's,Designer
+CUST0708,42,Male,Chicago,Fitness,Luxury,115264,High School,Manager
+CUST0709,19,Non-Binary,Los Angeles,Music,Budget,77366,Master's,Designer
+CUST0710,33,Female,Houston,Travel,Organic,137682,Master's,Teacher
+CUST0711,23,Non-Binary,Los Angeles,Gaming,Minimalist,50189,Master's,Manager
+CUST0712,33,Female,Boston,Sports,Trendy,76422,Bachelor's,Engineer
+CUST0713,57,Female,Houston,Tech,Classic,141585,PhD,Freelancer
+CUST0714,54,Female,Los Angeles,Sports,Budget,138177,PhD,Doctor
+CUST0715,20,Non-Binary,New York,Tech,Minimalist,81094,Master's,Engineer
+CUST0716,56,Female,Boston,Travel,Minimalist,146784,Bachelor's,Engineer
+CUST0717,24,Female,San Francisco,Gaming,Luxury,111382,Bachelor's,Engineer
+CUST0718,27,Female,Chicago,Music,Luxury,124004,Master's,Freelancer
+CUST0719,27,Female,New York,Fitness,Trendy,52641,Bachelor's,Freelancer
+CUST0720,45,Male,Seattle,Sports,Classic,103905,High School,Artist
+CUST0721,31,Male,Chicago,Tech,Minimalist,116872,High School,Doctor
+CUST0722,40,Non-Binary,New York,Fitness,Budget,99264,Master's,Salesperson
+CUST0723,53,Non-Binary,Los Angeles,Cooking,Classic,144810,High School,Artist
+CUST0724,64,Female,Seattle,Fitness,Classic,132941,Master's,Freelancer
+CUST0725,43,Male,Houston,Fitness,Trendy,82043,Bachelor's,Salesperson
+CUST0726,32,Male,Seattle,Tech,Classic,99025,High School,Doctor
+CUST0727,21,Non-Binary,San Francisco,Tech,Classic,121055,Bachelor's,Engineer
+CUST0728,44,Male,Boston,Fashion,Trendy,146247,High School,Freelancer
+CUST0729,46,Male,Chicago,Tech,Budget,141942,Master's,Manager
+CUST0730,30,Male,New York,Cooking,Luxury,117399,High School,Teacher
+CUST0731,21,Male,Miami,Tech,Organic,41117,Bachelor's,Designer
+CUST0732,21,Female,New York,Music,Trendy,81742,High School,Artist
+CUST0733,18,Non-Binary,New York,Fashion,Budget,141197,High School,Designer
+CUST0734,63,Non-Binary,Boston,Travel,Classic,146022,PhD,Designer
+CUST0735,39,Male,San Francisco,Tech,Luxury,122470,Master's,Manager
+CUST0736,25,Male,Los Angeles,Sports,Classic,34862,Master's,Artist
+CUST0737,57,Female,Seattle,Fitness,Luxury,66108,High School,Teacher
+CUST0738,44,Non-Binary,New York,Travel,Minimalist,61282,Master's,Manager
+CUST0739,18,Male,San Francisco,Tech,Luxury,74314,PhD,Manager
+CUST0740,39,Female,San Francisco,Travel,Classic,134548,High School,Doctor
+CUST0741,57,Female,Chicago,Travel,Organic,149040,Master's,Artist
+CUST0742,46,Non-Binary,Houston,Music,Trendy,115105,Master's,Engineer
+CUST0743,50,Male,Houston,Music,Minimalist,96684,Bachelor's,Manager
+CUST0744,42,Female,New York,Tech,Luxury,93412,Master's,Doctor
+CUST0745,55,Female,San Francisco,Fitness,Trendy,91676,Master's,Engineer
+CUST0746,25,Female,Boston,Sports,Budget,142519,High School,Designer
+CUST0747,57,Non-Binary,Los Angeles,Fashion,Minimalist,136520,Master's,Engineer
+CUST0748,51,Male,Miami,Travel,Budget,68153,High School,Freelancer
+CUST0749,35,Female,Chicago,Cooking,Minimalist,89390,PhD,Teacher
+CUST0750,56,Male,Seattle,Music,Minimalist,82023,Master's,Designer
+CUST0751,61,Male,San Francisco,Sports,Organic,48562,Master's,Designer
+CUST0752,57,Female,Los Angeles,Gaming,Minimalist,110549,Bachelor's,Engineer
+CUST0753,47,Non-Binary,Boston,Music,Budget,115297,Master's,Doctor
+CUST0754,22,Female,Los Angeles,Music,Organic,46110,Bachelor's,Artist
+CUST0755,30,Male,New York,Travel,Budget,70347,High School,Artist
+CUST0756,19,Male,San Francisco,Gaming,Classic,68710,PhD,Engineer
+CUST0757,50,Non-Binary,San Francisco,Travel,Trendy,47686,Master's,Salesperson
+CUST0758,23,Female,Los Angeles,Fashion,Budget,92715,High School,Manager
+CUST0759,60,Male,Los Angeles,Tech,Organic,51144,High School,Freelancer
+CUST0760,51,Female,Houston,Sports,Trendy,89874,Master's,Salesperson
+CUST0761,52,Non-Binary,Seattle,Fashion,Classic,97980,High School,Manager
+CUST0762,53,Non-Binary,Houston,Tech,Trendy,144457,PhD,Artist
+CUST0763,54,Non-Binary,Chicago,Sports,Minimalist,92269,PhD,Freelancer
+CUST0764,18,Non-Binary,Houston,Tech,Trendy,133203,Master's,Freelancer
+CUST0765,29,Female,Los Angeles,Sports,Classic,88132,PhD,Artist
+CUST0766,24,Female,Los Angeles,Music,Trendy,80341,High School,Artist
+CUST0767,58,Female,San Francisco,Sports,Classic,65469,Master's,Salesperson
+CUST0768,38,Male,Miami,Music,Classic,40517,High School,Salesperson
+CUST0769,47,Non-Binary,Los Angeles,Travel,Classic,100707,PhD,Manager
+CUST0770,22,Male,Boston,Tech,Luxury,99703,Master's,Teacher
+CUST0771,56,Female,Chicago,Travel,Classic,82519,High School,Designer
+CUST0772,20,Non-Binary,Miami,Gaming,Minimalist,85145,High School,Engineer
+CUST0773,53,Non-Binary,San Francisco,Fashion,Budget,74602,PhD,Freelancer
+CUST0774,48,Male,Chicago,Fashion,Trendy,93285,Master's,Doctor
+CUST0775,48,Female,San Francisco,Fitness,Budget,93380,Bachelor's,Doctor
+CUST0776,41,Male,Los Angeles,Fashion,Organic,121800,PhD,Manager
+CUST0777,65,Female,Houston,Cooking,Organic,92635,PhD,Artist
+CUST0778,53,Male,Chicago,Fitness,Budget,120020,High School,Doctor
+CUST0779,55,Non-Binary,Los Angeles,Gaming,Classic,45095,Bachelor's,Teacher
+CUST0780,55,Female,Miami,Fashion,Classic,74729,Master's,Artist
+CUST0781,33,Non-Binary,Chicago,Sports,Budget,111940,PhD,Teacher
+CUST0782,56,Male,New York,Gaming,Luxury,137511,High School,Teacher
+CUST0783,48,Female,Boston,Gaming,Organic,52887,PhD,Artist
+CUST0784,29,Female,San Francisco,Travel,Classic,72798,High School,Engineer
+CUST0785,41,Female,San Francisco,Sports,Classic,62770,High School,Salesperson
+CUST0786,31,Male,Miami,Travel,Luxury,149596,PhD,Freelancer
+CUST0787,47,Non-Binary,San Francisco,Travel,Luxury,139040,Master's,Freelancer
+CUST0788,28,Female,Los Angeles,Fitness,Minimalist,110017,High School,Engineer
+CUST0789,28,Non-Binary,Seattle,Music,Budget,87883,High School,Designer
+CUST0790,26,Male,Los Angeles,Gaming,Minimalist,76092,Master's,Salesperson
+CUST0791,19,Male,Boston,Travel,Minimalist,124268,PhD,Doctor
+CUST0792,38,Non-Binary,Los Angeles,Cooking,Organic,79917,PhD,Designer
+CUST0793,62,Female,Seattle,Cooking,Minimalist,140462,High School,Manager
+CUST0794,56,Female,San Francisco,Music,Minimalist,69006,High School,Teacher
+CUST0795,52,Male,Seattle,Travel,Minimalist,85749,Master's,Teacher
+CUST0796,63,Female,Los Angeles,Cooking,Trendy,99417,PhD,Artist
+CUST0797,45,Male,New York,Tech,Classic,97239,PhD,Designer
+CUST0798,30,Male,Seattle,Tech,Classic,45846,High School,Engineer
+CUST0799,57,Female,Los Angeles,Travel,Luxury,72917,Bachelor's,Doctor
+CUST0800,36,Male,San Francisco,Cooking,Trendy,135584,High School,Salesperson
+CUST0801,62,Non-Binary,New York,Travel,Classic,38184,Bachelor's,Freelancer
+CUST0802,32,Female,San Francisco,Tech,Luxury,105796,Bachelor's,Designer
+CUST0803,18,Female,Chicago,Cooking,Minimalist,56203,Master's,Manager
+CUST0804,31,Non-Binary,New York,Music,Trendy,42538,Master's,Freelancer
+CUST0805,45,Non-Binary,Chicago,Music,Budget,65270,Bachelor's,Designer
+CUST0806,63,Male,Chicago,Travel,Trendy,85065,Bachelor's,Teacher
+CUST0807,61,Male,Miami,Tech,Classic,146447,Master's,Artist
+CUST0808,29,Male,Houston,Travel,Classic,62698,Bachelor's,Teacher
+CUST0809,31,Female,Miami,Fashion,Organic,141202,Bachelor's,Designer
+CUST0810,44,Male,New York,Cooking,Trendy,79154,Master's,Doctor
+CUST0811,50,Male,Miami,Fitness,Luxury,102108,Bachelor's,Engineer
+CUST0812,44,Non-Binary,Chicago,Travel,Minimalist,88710,Bachelor's,Freelancer
+CUST0813,57,Female,San Francisco,Fashion,Organic,132676,Master's,Salesperson
+CUST0814,65,Non-Binary,Seattle,Music,Minimalist,63415,Master's,Manager
+CUST0815,37,Male,Seattle,Fashion,Trendy,59637,Bachelor's,Doctor
+CUST0816,61,Male,Los Angeles,Tech,Organic,79860,Master's,Doctor
+CUST0817,51,Male,Houston,Sports,Organic,38620,Master's,Engineer
+CUST0818,58,Male,Miami,Gaming,Trendy,85055,Master's,Designer
+CUST0819,44,Male,New York,Cooking,Trendy,116041,Master's,Manager
+CUST0820,20,Non-Binary,Los Angeles,Tech,Minimalist,147412,High School,Engineer
+CUST0821,42,Male,Boston,Sports,Minimalist,65633,PhD,Designer
+CUST0822,45,Female,Houston,Tech,Organic,53694,PhD,Designer
+CUST0823,33,Female,Seattle,Fashion,Organic,50378,PhD,Artist
+CUST0824,46,Non-Binary,Chicago,Tech,Budget,128028,PhD,Artist
+CUST0825,47,Non-Binary,Seattle,Travel,Budget,101251,Bachelor's,Designer
+CUST0826,40,Non-Binary,New York,Fashion,Minimalist,67137,High School,Engineer
+CUST0827,21,Female,San Francisco,Gaming,Budget,82258,PhD,Artist
+CUST0828,56,Female,Miami,Music,Trendy,47122,PhD,Manager
+CUST0829,30,Male,Seattle,Cooking,Classic,79319,Bachelor's,Engineer
+CUST0830,35,Non-Binary,Los Angeles,Fashion,Classic,41733,Master's,Salesperson
+CUST0831,62,Non-Binary,San Francisco,Fitness,Organic,39716,PhD,Designer
+CUST0832,50,Non-Binary,San Francisco,Cooking,Trendy,103048,Bachelor's,Artist
+CUST0833,50,Female,New York,Fashion,Budget,42860,High School,Manager
+CUST0834,37,Female,Boston,Tech,Minimalist,125870,High School,Salesperson
+CUST0835,36,Female,Miami,Travel,Luxury,80872,PhD,Manager
+CUST0836,19,Male,Boston,Music,Budget,59719,PhD,Designer
+CUST0837,39,Female,Seattle,Tech,Minimalist,145801,PhD,Engineer
+CUST0838,56,Non-Binary,Seattle,Sports,Budget,109679,Bachelor's,Engineer
+CUST0839,43,Female,Houston,Gaming,Minimalist,113391,PhD,Designer
+CUST0840,28,Non-Binary,Boston,Music,Budget,80237,Bachelor's,Artist
+CUST0841,43,Female,Chicago,Fashion,Minimalist,124488,Master's,Teacher
+CUST0842,46,Male,Boston,Music,Organic,101957,PhD,Designer
+CUST0843,38,Non-Binary,Houston,Tech,Luxury,140330,PhD,Doctor
+CUST0844,64,Non-Binary,San Francisco,Fitness,Budget,74740,Master's,Artist
+CUST0845,42,Male,Seattle,Music,Budget,64684,Master's,Engineer
+CUST0846,36,Male,Miami,Fitness,Trendy,94564,Bachelor's,Salesperson
+CUST0847,41,Non-Binary,Los Angeles,Sports,Classic,133698,PhD,Freelancer
+CUST0848,36,Non-Binary,Chicago,Gaming,Classic,88405,Bachelor's,Artist
+CUST0849,36,Male,San Francisco,Travel,Luxury,75301,High School,Salesperson
+CUST0850,61,Non-Binary,Houston,Gaming,Trendy,66046,Master's,Manager
+CUST0851,47,Male,Los Angeles,Cooking,Luxury,41252,Master's,Salesperson
+CUST0852,50,Non-Binary,San Francisco,Tech,Luxury,134973,Bachelor's,Teacher
+CUST0853,42,Male,San Francisco,Gaming,Luxury,132729,High School,Engineer
+CUST0854,42,Male,Houston,Tech,Minimalist,64173,PhD,Salesperson
+CUST0855,23,Female,Chicago,Fashion,Luxury,146252,PhD,Engineer
+CUST0856,34,Non-Binary,Chicago,Music,Budget,42514,High School,Teacher
+CUST0857,43,Female,Houston,Gaming,Organic,125620,High School,Engineer
+CUST0858,21,Male,Miami,Cooking,Budget,69212,Bachelor's,Manager
+CUST0859,39,Female,Seattle,Tech,Organic,136845,PhD,Teacher
+CUST0860,21,Non-Binary,San Francisco,Sports,Minimalist,128302,High School,Engineer
+CUST0861,29,Male,Seattle,Gaming,Luxury,80844,High School,Salesperson
+CUST0862,65,Female,Boston,Fashion,Organic,134735,PhD,Artist
+CUST0863,22,Male,Chicago,Fitness,Organic,148866,Master's,Freelancer
+CUST0864,60,Male,Boston,Tech,Trendy,108241,Bachelor's,Doctor
+CUST0865,48,Non-Binary,Miami,Music,Budget,92802,High School,Doctor
+CUST0866,50,Female,Seattle,Travel,Trendy,113289,PhD,Teacher
+CUST0867,39,Non-Binary,Chicago,Music,Organic,144657,Master's,Artist
+CUST0868,29,Female,Chicago,Sports,Trendy,55205,Bachelor's,Engineer
+CUST0869,61,Female,Boston,Cooking,Budget,140917,Bachelor's,Teacher
+CUST0870,49,Female,Seattle,Fitness,Budget,121604,High School,Salesperson
+CUST0871,43,Male,Miami,Sports,Luxury,133508,Bachelor's,Artist
+CUST0872,54,Non-Binary,Miami,Cooking,Budget,88476,Bachelor's,Doctor
+CUST0873,54,Non-Binary,Houston,Travel,Trendy,34248,High School,Manager
+CUST0874,34,Non-Binary,Los Angeles,Travel,Trendy,54559,Bachelor's,Teacher
+CUST0875,26,Female,Miami,Fitness,Trendy,57242,High School,Designer
+CUST0876,46,Male,Los Angeles,Fitness,Organic,141727,Master's,Engineer
+CUST0877,50,Female,New York,Gaming,Luxury,128243,High School,Artist
+CUST0878,43,Male,San Francisco,Sports,Budget,134726,Bachelor's,Manager
+CUST0879,52,Male,Miami,Travel,Minimalist,38141,Bachelor's,Freelancer
+CUST0880,64,Female,Miami,Fashion,Minimalist,119908,Bachelor's,Designer
+CUST0881,24,Female,New York,Tech,Organic,138632,Master's,Manager
+CUST0882,61,Female,Boston,Sports,Trendy,117075,PhD,Freelancer
+CUST0883,28,Female,Miami,Tech,Trendy,74911,Master's,Artist
+CUST0884,30,Non-Binary,San Francisco,Travel,Organic,104740,High School,Artist
+CUST0885,46,Female,Chicago,Tech,Classic,82636,High School,Designer
+CUST0886,65,Non-Binary,Seattle,Gaming,Minimalist,115016,Master's,Freelancer
+CUST0887,19,Non-Binary,New York,Tech,Minimalist,58214,High School,Engineer
+CUST0888,45,Female,New York,Gaming,Minimalist,31560,PhD,Engineer
+CUST0889,21,Female,San Francisco,Sports,Trendy,82665,PhD,Engineer
+CUST0890,27,Female,Chicago,Cooking,Classic,137662,Master's,Doctor
+CUST0891,33,Non-Binary,Boston,Sports,Organic,115708,Bachelor's,Designer
+CUST0892,36,Non-Binary,New York,Fashion,Trendy,104040,Master's,Freelancer
+CUST0893,22,Female,New York,Fashion,Budget,108330,High School,Manager
+CUST0894,46,Male,San Francisco,Music,Trendy,57429,Bachelor's,Teacher
+CUST0895,51,Non-Binary,Miami,Fashion,Trendy,81145,PhD,Artist
+CUST0896,56,Non-Binary,Chicago,Fitness,Classic,110822,Master's,Manager
+CUST0897,35,Non-Binary,Houston,Travel,Classic,113737,Bachelor's,Freelancer
+CUST0898,33,Female,Chicago,Cooking,Organic,128067,PhD,Teacher
+CUST0899,26,Female,Chicago,Fitness,Trendy,42229,PhD,Freelancer
+CUST0900,43,Male,San Francisco,Sports,Classic,113787,PhD,Salesperson
+CUST0901,39,Female,Chicago,Travel,Trendy,69104,PhD,Engineer
+CUST0902,39,Male,Chicago,Fitness,Luxury,124028,High School,Freelancer
+CUST0903,61,Male,Houston,Sports,Classic,45522,Bachelor's,Designer
+CUST0904,19,Male,Miami,Fashion,Luxury,64863,Bachelor's,Artist
+CUST0905,24,Female,Miami,Fitness,Organic,96382,High School,Salesperson
+CUST0906,57,Non-Binary,New York,Tech,Minimalist,135312,Bachelor's,Engineer
+CUST0907,36,Non-Binary,Boston,Fitness,Budget,107335,Bachelor's,Designer
+CUST0908,30,Male,Houston,Fitness,Trendy,146880,PhD,Engineer
+CUST0909,42,Male,New York,Fitness,Trendy,97064,High School,Freelancer
+CUST0910,54,Male,Seattle,Gaming,Organic,107946,High School,Doctor
+CUST0911,20,Non-Binary,Houston,Music,Luxury,108132,PhD,Manager
+CUST0912,53,Non-Binary,San Francisco,Fashion,Classic,67195,High School,Doctor
+CUST0913,47,Male,Miami,Tech,Organic,84758,High School,Artist
+CUST0914,38,Female,New York,Cooking,Luxury,37235,Master's,Freelancer
+CUST0915,39,Male,Los Angeles,Tech,Classic,72495,Master's,Doctor
+CUST0916,18,Male,Los Angeles,Travel,Budget,118319,PhD,Engineer
+CUST0917,61,Non-Binary,Boston,Gaming,Minimalist,114090,Master's,Artist
+CUST0918,32,Non-Binary,New York,Travel,Budget,134496,Bachelor's,Manager
+CUST0919,57,Non-Binary,New York,Tech,Luxury,65594,High School,Manager
+CUST0920,42,Non-Binary,San Francisco,Music,Budget,131870,PhD,Salesperson
+CUST0921,34,Male,Seattle,Travel,Luxury,34078,High School,Artist
+CUST0922,23,Male,Los Angeles,Tech,Trendy,56785,Master's,Manager
+CUST0923,49,Male,San Francisco,Gaming,Budget,126770,PhD,Teacher
+CUST0924,55,Male,Boston,Tech,Trendy,96913,Master's,Doctor
+CUST0925,49,Female,New York,Gaming,Organic,116125,Master's,Teacher
+CUST0926,36,Non-Binary,Boston,Travel,Luxury,47255,PhD,Artist
+CUST0927,48,Male,Los Angeles,Music,Budget,90920,PhD,Designer
+CUST0928,27,Male,Boston,Tech,Luxury,56324,High School,Teacher
+CUST0929,26,Non-Binary,San Francisco,Travel,Luxury,102682,Bachelor's,Designer
+CUST0930,45,Non-Binary,Boston,Travel,Minimalist,81236,PhD,Salesperson
+CUST0931,59,Female,Los Angeles,Sports,Budget,94299,PhD,Doctor
+CUST0932,50,Non-Binary,Miami,Cooking,Organic,55908,High School,Manager
+CUST0933,50,Male,Miami,Fitness,Luxury,76807,Bachelor's,Doctor
+CUST0934,61,Male,Los Angeles,Sports,Organic,136391,High School,Teacher
+CUST0935,26,Male,Chicago,Travel,Luxury,141659,High School,Engineer
+CUST0936,22,Non-Binary,Seattle,Travel,Classic,41104,High School,Teacher
+CUST0937,46,Non-Binary,Boston,Cooking,Organic,94323,Bachelor's,Salesperson
+CUST0938,58,Non-Binary,Boston,Travel,Minimalist,43631,High School,Manager
+CUST0939,33,Male,Miami,Cooking,Classic,134747,Bachelor's,Doctor
+CUST0940,22,Male,Chicago,Music,Luxury,40893,PhD,Artist
+CUST0941,33,Non-Binary,Miami,Sports,Trendy,114087,High School,Artist
+CUST0942,47,Male,Los Angeles,Sports,Organic,80784,PhD,Designer
+CUST0943,23,Non-Binary,Chicago,Cooking,Classic,92950,Master's,Teacher
+CUST0944,22,Female,Seattle,Gaming,Trendy,47269,High School,Teacher
+CUST0945,21,Female,Los Angeles,Cooking,Budget,35461,Bachelor's,Engineer
+CUST0946,38,Non-Binary,Chicago,Travel,Trendy,78954,High School,Salesperson
+CUST0947,23,Female,New York,Fashion,Budget,112700,Bachelor's,Designer
+CUST0948,34,Female,Seattle,Fitness,Minimalist,141931,High School,Artist
+CUST0949,37,Male,San Francisco,Sports,Trendy,143192,Master's,Teacher
+CUST0950,54,Male,Boston,Tech,Minimalist,137165,Bachelor's,Manager
+CUST0951,65,Non-Binary,San Francisco,Travel,Organic,133516,Master's,Designer
+CUST0952,20,Male,Miami,Sports,Luxury,73898,Master's,Artist
+CUST0953,23,Non-Binary,Houston,Cooking,Organic,118579,Bachelor's,Salesperson
+CUST0954,24,Female,San Francisco,Cooking,Budget,85966,PhD,Artist
+CUST0955,61,Non-Binary,Miami,Sports,Budget,97583,Master's,Artist
+CUST0956,50,Non-Binary,Houston,Fashion,Budget,133851,PhD,Salesperson
+CUST0957,60,Female,Houston,Travel,Trendy,78451,High School,Designer
+CUST0958,39,Female,Los Angeles,Fitness,Organic,76152,PhD,Designer
+CUST0959,43,Female,New York,Tech,Budget,54092,Bachelor's,Doctor
+CUST0960,41,Male,Chicago,Fashion,Minimalist,36693,Bachelor's,Freelancer
+CUST0961,43,Non-Binary,Chicago,Fitness,Budget,43469,Master's,Doctor
+CUST0962,46,Female,San Francisco,Music,Classic,86057,Master's,Engineer
+CUST0963,49,Female,Houston,Sports,Budget,82517,PhD,Engineer
+CUST0964,65,Female,San Francisco,Gaming,Luxury,132904,Master's,Artist
+CUST0965,51,Male,Chicago,Sports,Trendy,129178,PhD,Artist
+CUST0966,57,Non-Binary,Chicago,Tech,Organic,32793,Bachelor's,Salesperson
+CUST0967,47,Non-Binary,Chicago,Sports,Trendy,116944,Bachelor's,Salesperson
+CUST0968,19,Female,Chicago,Tech,Minimalist,68935,High School,Manager
+CUST0969,27,Non-Binary,Los Angeles,Gaming,Classic,110856,Master's,Doctor
+CUST0970,21,Female,Miami,Sports,Luxury,95545,High School,Engineer
+CUST0971,23,Male,Boston,Tech,Minimalist,30824,Bachelor's,Artist
+CUST0972,43,Female,New York,Travel,Budget,77704,Bachelor's,Artist
+CUST0973,40,Female,Chicago,Fashion,Trendy,108138,Master's,Artist
+CUST0974,27,Male,Seattle,Travel,Budget,74388,Master's,Artist
+CUST0975,61,Non-Binary,Boston,Music,Minimalist,106587,Master's,Manager
+CUST0976,43,Female,San Francisco,Fitness,Classic,136768,High School,Engineer
+CUST0977,35,Male,Seattle,Tech,Budget,119279,Master's,Engineer
+CUST0978,38,Female,Seattle,Travel,Minimalist,35894,Bachelor's,Teacher
+CUST0979,39,Male,Houston,Sports,Minimalist,76199,Bachelor's,Teacher
+CUST0980,22,Non-Binary,Los Angeles,Travel,Luxury,118036,PhD,Freelancer
+CUST0981,31,Female,San Francisco,Tech,Luxury,44024,High School,Teacher
+CUST0982,64,Non-Binary,Los Angeles,Gaming,Budget,139202,High School,Artist
+CUST0983,41,Non-Binary,Houston,Sports,Luxury,133326,Bachelor's,Salesperson
+CUST0984,53,Female,Miami,Music,Luxury,66494,PhD,Artist
+CUST0985,26,Male,Los Angeles,Travel,Minimalist,145006,Master's,Doctor
+CUST0986,41,Female,Boston,Fashion,Luxury,109165,Master's,Artist
+CUST0987,45,Female,Miami,Sports,Minimalist,113490,High School,Manager
+CUST0988,32,Non-Binary,Seattle,Fashion,Trendy,122217,Master's,Freelancer
+CUST0989,49,Non-Binary,Chicago,Gaming,Classic,114199,Master's,Artist
+CUST0990,32,Female,Los Angeles,Fashion,Luxury,100446,Master's,Freelancer
+CUST0991,54,Non-Binary,Seattle,Sports,Trendy,73683,Master's,Engineer
+CUST0992,61,Non-Binary,Seattle,Fashion,Minimalist,75540,PhD,Engineer
+CUST0993,31,Male,Los Angeles,Cooking,Luxury,113384,High School,Doctor
+CUST0994,63,Non-Binary,Houston,Gaming,Organic,36754,Bachelor's,Teacher
+CUST0995,48,Female,New York,Tech,Budget,80420,Master's,Salesperson
+CUST0996,46,Female,Boston,Sports,Trendy,91126,High School,Teacher
+CUST0997,40,Female,Seattle,Cooking,Luxury,91584,Master's,Salesperson
+CUST0998,29,Female,Miami,Travel,Classic,72076,Master's,Designer
+CUST0999,30,Male,Boston,Tech,Organic,62097,Master's,Manager
+CUST1000,31,Female,San Francisco,Gaming,Minimalist,127574,PhD,Teacher

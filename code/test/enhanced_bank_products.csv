@@ -1,0 +1,11 @@
+Product_ID,Bank_Product,Bank_Partners,Merchant_ID,Product_Category,Product_Description
+1,Co-Branded Credit Card,"Visa, Chase",1,,
+2,Co-Branded Credit Card,"Mastercard, Capital One",2,,
+3,BNPL,"Affirm, Visa",1,,
+4,Installment Plan,"Goldman Sachs, Mastercard",4,,
+5,Retail Banking Branch,"Chase, Bank of America",2,,
+6,Embedded Wallet,"Visa, Green Dot",12,,
+7,Supplier Financing,"JPMorgan Chase, Citi",2,,
+8,Invoice Factoring,"Bank of America, HSBC",10,,
+9,Extended Warranty,"AIG, Goldman Sachs",4,,
+10,Protection Plan,"Allstate, Visa",11,,
