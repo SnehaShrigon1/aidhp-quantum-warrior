@@ -15,5 +15,9 @@ AI-driven hyper-personalization and recommendation system design: The system pro
 ## 🎯 Presentation
 https://github.com/SnehaShrigon1/aidhp-quantum-warrior/blob/main/AI-Driven-Hyper-Personalization-and-Recommendation-System.pptx
 
+## Teck Stack
+Python
+Jupyter notebook
+
 ## 👥 Quantum_Warrior
 - **Sneha Shrigon** - [GitHub](#) | [LinkedIn](#)
