@@ -3,7 +3,7 @@
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
-- [Presentation]
+- [Presentation](#prsentation)
 - [Tech Stack](#tech-stack)
 - [Team](#team)
 
