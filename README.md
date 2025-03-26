@@ -45,4 +45,4 @@ https://github.com/SnehaShrigon1/aidhp-quantum-warrior/blob/main/AI-Driven-Hyper
    
 
 ## 👥 Quantum_Warrior
-- **Sneha Shrigon** - [GitHub](#) | [LinkedIn](#)
+- **Sneha Shrigon** - [GitHub](https://github.com/SnehaShrigon1) | [LinkedIn](#)
