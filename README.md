@@ -26,8 +26,13 @@ https://github.com/SnehaShrigon1/aidhp-quantum-warrior/blob/main/AI-Driven-Hyper
    git clone git@github.com:SnehaShrigon1/aidhp-quantum-warrior.git
    ```
 2. Install dependencies  
-   ```sh
+   ```sh   
+   Install the classic Jupyter Notebook with:
    pip install notebook
+   
+   To run the notebook:
+   jupyter notebook
+   ```
 
 3. Open https://github.com/SnehaShrigon1/aidhp-quantum-warrior/blob/main/code/src/RecommendationSys.ipynb using jupyter notebook
 
